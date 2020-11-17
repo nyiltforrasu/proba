@@ -1,3 +1,3 @@
 // ez az elso fajlom
 
-console.log("Szia Zenta")
+console.log("Csao ZentCsao
