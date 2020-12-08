@@ -5,3 +5,5 @@ def fuggveny():
 #Urban Adam kommentje
 
 fuggveny()
+
+# szerintem okes lesz
