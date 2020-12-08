@@ -39,7 +39,6 @@
   <component name="ChangeListManager">
     <list default="true" id="33c2addf-8e3f-45d8-827a-8d050cbcbf3c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/common.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/evelin.py" beforeDir="false" afterPath="$PROJECT_DIR$/evelin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
